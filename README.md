@@ -1,5 +1,7 @@
 # Habit Tracker
 A simple Habit Tracker built using HTML, CSS, and JavaScript.
+<img width="836" height="735" alt="image" src="https://github.com/user-attachments/assets/c27c7d4d-2bb5-487d-9a1e-a7e9163e1aa0" />
+Live Website Deployment (Github Pages): https://divyasri-0105.github.io/Habit-Tracker/
 
 ## Features
 * Add new habits
